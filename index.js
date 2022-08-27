@@ -6,3 +6,11 @@ function laCajaDePandora(numero){
     return numero.toString(16);
   }
 }
+
+function nacho(){
+  return {
+    nombre:"Ignacio",
+    edad:"25",
+    nacionalidad: "Argentina"
+  }
+}

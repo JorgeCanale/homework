@@ -8,7 +8,7 @@ function laCajaDePandora(numero){
     return espar
   }
 
-  funciton benja(){
+  function benja(){
     return{
         nombre: 'jorge rodolgo benjamin canale',
         edad: 22,

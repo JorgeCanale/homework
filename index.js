@@ -1,4 +1,5 @@
 function laCajaDePandora(numero) {
+
   // proximamente escribiremos codigo aqui
 
   if (numero % 2 === 0) {
@@ -6,6 +7,16 @@ function laCajaDePandora(numero) {
   } else {
     return numero.toString(16);
   }
+}
+
+
+function mike() {
+  const mike = {
+    name: "Mike",
+    age: 25,
+    nationality: "Colombian"
+  }
+  return mike
 }
 
 function gaston(){

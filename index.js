@@ -5,6 +5,15 @@ function laCajaDePandora(numero){
   } else {
     return numero.toString(16);
   }
+
+}
+
+function matias() {
+  return {
+    nombre: "Matias Biott",
+    edad: 20,
+    nacionalidad: "Argentino"
+  }
 }
 
 function nacho(){
@@ -12,5 +21,6 @@ function nacho(){
     nombre:"Ignacio",
     edad:"25",
     nacionalidad: "Argentina"
+
   }
 }

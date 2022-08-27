@@ -6,3 +6,11 @@ function laCajaDePandora(numero) {
     return numero.toString(16);
   }
 }
+
+function gaston(){
+  return{
+    name: "gaston",
+    edad: 38,
+    nacionalidad: "argentina"
+  }
+}

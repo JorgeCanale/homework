@@ -1,3 +1,4 @@
+
 function laCajaDePandora(numero) {
 
   // proximamente escribiremos codigo aqui
@@ -43,4 +44,13 @@ function nacho(){
 
   }
 }
+
+function benja(){
+    return{
+        nombre: 'jorge rodolgo benjamin canale',
+        edad: 22,
+        nacionalidad: 'argentino'
+    }
+  }
+
 

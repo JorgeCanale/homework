@@ -1,4 +1,5 @@
 
+
 function laCajaDePandora(numero) {
 
   // proximamente escribiremos codigo aqui
@@ -25,6 +26,14 @@ function gaston(){
     name: "gaston",
     edad: 38,
     nacionalidad: "argentina"
+  }
+}
+
+function obj(){
+  return {
+    name: 'miguel linares',
+    age: 36,
+    nation: 'Venezuela'
   }
 }
 

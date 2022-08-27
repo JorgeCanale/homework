@@ -7,3 +7,10 @@ function laCajaDePandora(numero){
   }
 };
 
+function matias() {
+  return {
+    nombre: "Matias Biott",
+    edad: 20,
+    nacionalidad: "Argentino"
+  }
+}

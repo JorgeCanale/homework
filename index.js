@@ -1,3 +1,3 @@
-function funcion(numero){
-    
+function laCajaDePandora(numero){
+
 }

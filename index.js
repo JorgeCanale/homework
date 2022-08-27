@@ -1,3 +1,4 @@
 function laCajaDePandora(numero){
-  // proximamente escribiremos codigo aqui
+  const nada = nada + numero
+  return 'nada'
 }
